@@ -1,0 +1,6 @@
+{
+  "name": "SPORTZONE",
+  "description": "Modern sports equipment and sportswear e-commerce platform with multi-category gear, brands, cart, checkout, order tracking, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
